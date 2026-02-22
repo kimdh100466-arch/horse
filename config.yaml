@@ -1,0 +1,6 @@
+baseline_weights:
+  rating: 0.35
+  carried_weight: -0.2
+  jockey_winrate_recent: 0.2
+  trainer_winrate_recent: 0.15
+  horse_recent_form: -0.1
